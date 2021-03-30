@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  border: 0.5rem solid rgb(224, 78, 78);
+}
+
+.gallery {
+  margin: 1rem;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  /* grid-template-rows: repeat(5, 1fr);*/
+}
