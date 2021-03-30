@@ -2,4 +2,6 @@
 
 i make an image gallery using grid system
 
-(actually i just use this repository to learn how to use git, cheers).
+u can use this repo to explore how to use grid.
+
+happy coding.
