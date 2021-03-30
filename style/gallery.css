@@ -9,6 +9,11 @@ img {
   border: 0.5rem solid rgb(224, 78, 78);
 }
 
+h1 {
+  text-align: center;
+  margin: 2rem 0;
+}
+
 .gallery {
   margin: 1rem;
   display: grid;
