@@ -11,13 +11,13 @@ img {
 
 h1 {
   text-align: center;
-  margin: 2rem 0;
+  margin: 5rem 0;
 }
 
 .gallery {
-  margin: 1rem;
+  margin: 5rem;
   display: grid;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+  grid-gap: 5rem;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   /* grid-template-rows: repeat(5, 1fr);*/
 }
